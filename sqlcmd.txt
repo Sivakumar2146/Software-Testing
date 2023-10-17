@@ -1,0 +1,15 @@
+SQL For tester Know basic commands; 
+[  SELECT 
+The SELECT statement is used to query a database and retrieve one or more rows of data from one or more tables. It typically looks like this:
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+]
+
+[ UPDATE
+  In SQL, the UPDATE statement is used to modify existing records in a database table. It allows you to change the values of one or more columns in one or more rows based on a specified condition. The basic syntax of the UPDATE statement is as follows:
+  UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+]
+
