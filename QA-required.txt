@@ -1,0 +1,25 @@
+Responsibilities
+Design, develop, and maintain test cases for UI testing or/and backend testing
+Contribute actively towards scalable Automation strategy & execution
+Participate in functional, system, and regression testing activities
+Work closely with development teams to ensure exceptional test coverage
+Estimate and perform risk analysis on large features during sprint planning meetings
+Report project status defects report and verification, and issue escalation in a timely manner
+Requirements
+Bachelors/Master in Computer Science or or Information Technology
+Experience with Continuous Integration or Continuous Deployment a plus
+Experience with object-oriented languages, for example in Java, Python, Scala, Ruby, or C#
+Experience in working with Unix/Windows operating systems
+Familiar with QA processes
+Passion for testing with a “break it” mentality
+Passion for cutting-edge technologies, complex problems, and breaking things
+Clarity and precision in verbal and written communication
+Desirable
+Experience with testing large-scale systems
+0 - 2 years of work experience
+Experience in big data and/or 24x7 commercial service is highly desirable
+You should be happy working with Unix (Linux, OS X).
+Agile software development experience (test-driven development, iterative and incremental development) is a plus
+Familiar with test tools such as TestRails, Jira, JMeter, Selenium, etc
+Ability to understand the Sumo Logic backend architecture in depth
+Experience with Enterprise grade SaaS products
