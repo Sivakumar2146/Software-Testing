@@ -1,0 +1,22 @@
+https://www.interviewkickstart.com/interview-questions/java-interview-questions-testers
+
+Here are some Java software testing interview questions for freshers: 
+What is Java?:
+Why is Java a platform independent language?:
+What are the differences between C++ and Java?:
+Why is Java not a pure object oriented language?:
+List the features of the Java Programming language?:
+What do you get in the Java download file?:
+Explain JVM, JRE, and JDK
+What do you know about Framework?:
+What is the Test Automation Frameworks?:
+What OOPs concepts are important while performing manual testing of Java applications?:
+Some other Java interview questions include: 
+What is a JVM?
+Does Java support multiple inheritance?
+What is the most important feature of Java?
+HashMap
+Iterator
+HashTable
+Enumerator
+Java is a programming language and computing platform that was first released in 1995. It is fast, secure, and reliable. 
